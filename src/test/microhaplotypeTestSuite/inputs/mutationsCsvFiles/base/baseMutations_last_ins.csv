@@ -1,0 +1,9 @@
+Chromosome,Position,Reference Allele,Alternate Alleles,Allele Frequency
+chr5,2448024,C,A/T/G/-/-/G/A/G,1/1/1/1/1/1/1/1
+chr5,2448052,A,G/C/G/T/-/-/C/C,1/1/1/1/1/1/1/1
+chr5,2448146,G,A/C/C/A/C/A/-/-,1/1/1/1/1/1/1/1
+chr5,2448160,A,C/G/T/T/C/-/T/C,1/1/1/1/1/1/1/1
+chr13,54060827,T,G/C/C/A/C/A/G/A,1/1/1/1/1/1/1/1
+chr13,54060881,T,G/A/C/C/C/A/-/-,1/1/1/1/1/1/1/1
+chr13,54060892,T,G/C/A/-/-/G/-/-,1/1/1/1/1/1/1/1
+chr13,54060971,G,GAT/GAT/GAT/GAT/GAT/GAT/GAT/GAT,1/1/1/1/1/1/1/1

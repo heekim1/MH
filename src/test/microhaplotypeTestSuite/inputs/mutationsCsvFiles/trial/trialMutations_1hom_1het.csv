@@ -1,0 +1,4 @@
+Chromosome,Position,Reference Allele,Alternate Alleles,Allele Frequency
+chrM,150,C,G/T/T/T/T/T/G/G,1/0.5/0.5/0.5/0.5/0.5/0.5/0.5
+chrM,200,A,T/C/-/G/C/-/C/-,1/0.5/0.5/0.5/0.5/0.5/0.5/0.5
+chrM,250,T,G/A/C/A/A/-/A/A,1/0.5/0.5/0.5/0.5/0.5/0.5/0.5

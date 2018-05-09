@@ -1,0 +1,10 @@
+track type=bedDetail name="microhaps45_hotspot" description="microhaps45_hotspot"
+chrM	149	150	mitotrial-001_1	0	+REF=C;OBS=A;ANCHOR=T	mitotrial-001
+chrM	149	150	mitotrial-001_1	0	+	REF=C;OBS=T;ANCHOR=T	mitotrial-001
+chrM	149	150	mitotrial-001_1	0	+	REF=C;OBS=G;ANCHOR=T	mitotrial-001
+chrM	199	200	mitotrial-001_2	0	+	REF=A;OBS=G;ANCHOR=T	mitotrial-001
+chrM	199	200	mitotrial-001_2	0	+	REF=A;OBS=C;ANCHOR=T	mitotrial-001
+chrM	199	200	mitotrial-001_2	0	+	REF=A;OBS=T;ANCHOR=T	mitotrial-001
+chrM	249	250	mitotrial-001_3	0	+	REF=T;OBS=A;ANCHOR=A	mitotrial-001
+chrM	249	250	mitotrial-001_3	0	+	REF=T;OBS=C;ANCHOR=A	mitotrial-001
+chrM	249	250	mitotrial-001_3	0	+	REF=T;OBS=G;ANCHOR=A	mitotrial-001

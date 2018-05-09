@@ -1,0 +1,4 @@
+##Filters : AndCriteria [criteria=AlleleRelativeCoveragePercentCriteira [MIN=0.02, MAX=1.0], criteriaList=[AlleleAvgMQCriteria [MIN=60, MAX=254], AlleleSeqContainDeletionCriteria [DEL=_], AlleleCoverageCriteria [MIN=10, MAX=100000]]]
+#The minimum number of contributors : 1
+MarkerId	AvgAe	ProbOfDetMix	NumOfAlleles	NumOfContributors	AlleleCoverage	AlleleCoverageDetail(-strand:+strand:avgMQ)	SNPs	MinimumCoverage
+mitotrial-001	5.54822	0.37857	1	1	[GTG]10	[GTG]10(3:7:70)	rs1927847/rs9536429	0

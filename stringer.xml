@@ -1,0 +1,9 @@
+<stringer checkCaller="true"
+               integrityProtection="true" 
+               resourceEncryption="true" 
+               optimize="true"  
+               verbose="true"  
+               osgiCompatibility="true"   
+               target="1.6" 
+               nameGenMethod="utf">
+</stringer>

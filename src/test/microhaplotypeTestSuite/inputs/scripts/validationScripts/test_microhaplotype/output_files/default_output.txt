@@ -1,0 +1,3 @@
+##Filters : (Analytical Threshold=0.020000, Absolute Analytical Threshold=10, Mapping Quality Range=[60,254], Remove Deletions=True)
+#The minimum number of contributors : 0
+MarkerId	AvgAe	ProbOfDetMix	NumOfAlleles	NumOfContributors	AlleleCoverage	AlleleCoverageDetail(-strand:+strand:avgMQ)	SNPs	MinimumCoverage
