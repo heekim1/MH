@@ -1,4 +1,4 @@
-This tools implements the features based on the following research paper at https://www.fsigenetics.com/article/S1872-4973(18)30391-0/abstract.
+This MH (Microhaplotype Genotyper) implements the features based on the following research paper at https://www.fsigenetics.com/article/S1872-4973(18)30391-0/abstract.
 
 
 Review Forensic Sci Int Genet
